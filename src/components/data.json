@@ -1,0 +1,53 @@
+{
+  "ImageCard": [
+    {
+      "title": "Fully Responsive",
+      "description": "This theme will look great on any device, no matter the size!",
+      "iconName": "bi-window"
+    },
+    {
+      "title": "Bootstrap 5 Ready",
+      "description": "Featuring the latest build of the new Bootstrap 5 framework!",
+      "iconName": "bi-layers"
+    },
+    {
+      "title": "Easy to Use",
+      "description": "Ready to use with your own content, or customize the source files!",
+      "iconName": "bi-terminal"
+    }
+  ],
+  "FeaturedLabels": [
+    {
+      "title": "Fully Responsive Design",
+      "description": "When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!",
+      "image": "src/assets/bg-showcase-1.jpg"
+    },
+    {
+      "title": "Updated For Bootstrap 5",
+      "description": "Newly improved, and full of great utility classes, Bootstrap 5 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 5!",
+      "image": "src/assets/bg-showcase-2.jpg"
+    },
+    {
+      "title": "Easy to Use & Customize",
+      "description": "Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!",
+      "image": "src/assets/bg-showcase-3.jpg"
+    }
+  ],
+  "TestimonialsData": [
+    {
+      "name": "Margaret E.",
+      "content": "This is fantastic! Thanks so much guys!",
+      "image": "src/assets/testimonials-1.jpg"
+    },
+    {
+      "name": "Fred S.",
+      "content": "Bootstrap is amazing. I've been using it to create lots of super nice landing pages.",
+      "image": "src/assets/testimonials-2.jpg"
+    },
+    {
+      "name": "Sarah W.",
+      "content": "Thanks so much for making these free resources available to us!",
+      "image": "src/assets/testimonials-3.jpg"
+    }
+  ]
+}

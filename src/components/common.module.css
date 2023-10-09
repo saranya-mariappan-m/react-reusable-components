@@ -1,0 +1,25 @@
+.blueBackground {
+    position: relative;
+    background-color: #343a40;
+    background: url("../assets/bg-masthead.jpg") no-repeat center center;
+    background-size: cover;
+}
+.headerNav {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+.callToAction {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+@media (min-width: 768px) {
+.headerNav {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+.callToAction {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+}
