@@ -42,12 +42,12 @@
     {
       "name": "Fred S.",
       "content": "Bootstrap is amazing. I've been using it to create lots of super nice landing pages.",
-      "image": "src/assets/testimonials-2.jpg"
+      "image": "./src/assets/testimonials-2.jpg"
     },
     {
       "name": "Sarah W.",
       "content": "Thanks so much for making these free resources available to us!",
-      "image": "src/assets/testimonials-3.jpg"
+      "image": "/testimonials-3.jpg"
     }
   ]
 }
