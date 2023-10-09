@@ -37,7 +37,7 @@
     {
       "name": "Margaret E.",
       "content": "This is fantastic! Thanks so much guys!",
-      "image": "src/assets/testimonials-1.jpg"
+      "image": "../assets/testimonials-1.jpg"
     },
     {
       "name": "Fred S.",
