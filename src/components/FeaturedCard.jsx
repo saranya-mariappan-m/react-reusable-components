@@ -32,7 +32,6 @@ const FeaturedCard = () => {
     image,
     index
   }) => {
-    console.log(index);
     return (
       <div className="row g-0">
         <div className={`col-lg-6 text-white showcase-img ${index % 2 === 0 ? "order-lg-2" : ""}`}>
